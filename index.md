@@ -1,8 +1,15 @@
 # **Portfolio: Mariah Josten**
 
-![Profile picture](IMG_9640.jpeg)
+<div style="text-align:center;">
 
-![Washington State ferry. From: Dan Depew](https://upload.wikimedia.org/wikipedia/commons/5/54/Washington_State_Ferries_Dan_Depew_Food_Service_05.png)
+  <img src="IMG_9640.jpeg" alt="Profile picture" style="width:45%; margin-right:5%; vertical-align:top;"><br>
+  <small>Profile picture</small>
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Washington_State_Ferries_Dan_Depew_Food_Service_05.png" alt="Washington State ferry" style="width:45%; vertical-align:top;"><br>
+  <small>Washington State ferry. From: Dan Depew</small>
+
+</div>
+
 
 I'm originally from Seattle in Washington State, USA.
 
@@ -14,5 +21,11 @@ Currently, I'm a doctoral researcher at the University of Turku in Finland study
 
 My hobbies include: knitting, crochet, yoga, and swimming.
 
-![Fieldwork in the Archipelago Sea](IMG_0245.jpeg)
-![Fieldwork in the Archipelago Sea](IMG_0346.jpeg)
+<div style="display: inline-block; text-align: center; margin-right: 10px;">
+  <img src="IMG_0245.jpeg" style="width:45%;"><br>
+</div>
+<div style="display: inline-block; text-align: center;">
+  <img src="IMG_0346.jpeg" style="width:45%;"><br>
+</div>
+
+Fieldwork in the Archipelago Sea
