@@ -1,9 +1,11 @@
 # **Portfolio: Mariah Josten**
 
-| | |
-|-|-|
-| <img src="IMG_9640.jpeg" alt="Profile picture" width="300"> | <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Washington_State_Ferries_Dan_Depew_Food_Service_05.png" alt="Washington State ferry" width="300"> |
-| Profile picture | Washington State ferry. From: Dan Depew |
+<table style="width:100%; text-align:center; margin-bottom:20px;">
+<tr>
+  <td><img src="IMG_9640.jpeg" alt="Profile picture" width="300"><br><small>Profile picture</small></td>
+  <td><img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Washington_State_Ferries_Dan_Depew_Food_Service_05.png" alt="Washington State ferry" width="375"><br><small>Washington State ferry. From: Dan Depew</small></td>
+</tr>
+</table>
 
 I'm originally from Seattle in Washington State, USA.
 
