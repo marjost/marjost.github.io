@@ -1,6 +1,6 @@
 # **Portfolio: Mariah Josten**
 
-!(IMG_9640 (3).jpeg)
+!(IMG_9640.jpeg)
 
 ![Washington State ferry. From: Dan Depew](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Washington_State_Ferries_Dan_Depew_Food_Service_05.png/640px-Washington_State_Ferries_Dan_Depew_Food_Service_05.png)
 
